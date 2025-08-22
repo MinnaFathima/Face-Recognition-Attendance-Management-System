@@ -24,6 +24,9 @@ Face Recognition based Attendance Management System with a Flask web application
 ### Installation and Usage
 1. Clone the repository:
     ```
+    git clone https://github.com/MinnaFathima/Face-Recognition-Attendance-Management-System.git
+
+    ```
 2. Install the required dependencies:
     ```
     pip install -r requirements.txt
